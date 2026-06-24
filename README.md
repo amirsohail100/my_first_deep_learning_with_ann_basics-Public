@@ -15,18 +15,6 @@ Using TensorFlow's high-performance tensor manipulation libraries and localized 
 
 ---
 
-## 🖥️ Deep Learning Interface Preview
-
-Below is the structured output log and neural network performance layout from my local development environment:
-
-<!-- ANN UI/Terminal Screenshot Section -->
-<div align="center">
-  <img src="./ann_ui.png" alt="ANN Deep Learning Architecture UI Preview" width="85%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 1px solid #30363d;">
-  <p><i>ANN Core Environment — TensorFlow Layer Activation & Forward Propagation Diagnostics</i></p>
-</div>
-
----
-
 ## 🛠️ Core Features & Engineering Objectives
 
 - **TensorFlow Sequential Architecture:** Implementation of input, hidden, and output operational layers mapped through `tf.keras.Sequential`.
